@@ -31,7 +31,7 @@ SECRET_KEY = 'django-insecure-6adl7f6d()3f#6(2j4@@5_!1nqkin4+8wm0rk)jooz)p@h^)d#
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['spotty-marni-faizyorg-62629414.koyeb.app']
 
 
 # Application definition
