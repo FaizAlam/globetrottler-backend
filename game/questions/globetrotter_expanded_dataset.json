@@ -1,0 +1,1042 @@
+[
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "clues": [
+      "Home to a famous clock tower that is often mistaken for its bell.",
+      "A royal family resides in this city, attracting millions of visitors each year."
+    ],
+    "fun_fact": [
+      "Big Ben refers to the bell, not the tower itself! The tower is called Elizabeth Tower.",
+      "London has over 170 museums, making it a paradise for history lovers."
+    ],
+    "trivia": [
+      "The London Underground is the oldest metro system in the world.",
+      "London was the first city to have traffic lights, installed in 1868."
+    ]
+  },
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city is home to an ancient amphitheater where gladiators once fought.",
+      "Nicknamed the 'Eternal City' for its long history and timeless charm."
+    ],
+    "fun_fact": [
+      "The Colosseum could hold up to 50,000 spectators in ancient times.",
+      "Rome has a country within its borders\u2014Vatican City, the smallest country in the world."
+    ],
+    "trivia": [
+      "Ancient Romans used urine to wash their clothes, believing in its cleaning power.",
+      "The Pantheon in Rome has the largest unreinforced concrete dome in the world."
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "Home to one of the Seven Wonders of the Ancient World.",
+      "This city's river is the longest in the world, flowing through multiple countries."
+    ],
+    "fun_fact": [
+      "The Great Pyramid of Giza was the tallest man-made structure for over 3,800 years.",
+      "Cairo is known as the 'City of a Thousand Minarets' due to its many mosques."
+    ],
+    "trivia": [
+      "Egyptians invented one of the earliest forms of writing\u2014hieroglyphics.",
+      "The Sphinx originally had a nose, but it was destroyed over time."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "Home to a famous white-sailed opera house.",
+      "This city has one of the largest natural harbors in the world."
+    ],
+    "fun_fact": [
+      "The Sydney Opera House's design was inspired by orange peels.",
+      "Sydney is home to the world's largest natural harbor, spanning 55 square kilometers."
+    ],
+    "trivia": [
+      "Bondi Beach, one of the world's most famous beaches, is located here.",
+      "Sydney's Harbour Bridge is nicknamed 'The Coathanger' due to its shape."
+    ]
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "clues": [
+      "A massive statue of Christ overlooks this city.",
+      "Famous for its annual carnival, filled with music and dancing."
+    ],
+    "fun_fact": [
+      "Christ the Redeemer is one of the New Seven Wonders of the World.",
+      "Rio de Janeiro was once the capital of Brazil until 1960."
+    ],
+    "trivia": [
+      "Sugarloaf Mountain is one of the city's most famous landmarks.",
+      "Brazilian coffee culture is strong\u2014this country is the world's largest coffee producer."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "clues": [
+      "Home to the tallest building in the world.",
+      "This city is known for its artificial islands shaped like a palm tree."
+    ],
+    "fun_fact": [
+      "The Burj Khalifa is so tall that you can see the sunset twice\u2014once from the ground and again from the top.",
+      "Dubai's police force uses luxury cars like Lamborghinis and Ferraris."
+    ],
+    "trivia": [
+      "Dubai has no natural rivers but has created artificial waterways.",
+      "The Dubai Mall has an indoor ice rink and an aquarium."
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "Home to The Grand Palace, a world-famous attraction.",
+      "This city is known for its Street food capital."
+    ],
+    "fun_fact": [
+      "Bangkok is a blend of modern and ancient, with rich traditions still alive.",
+      "Bangkok has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Bangkok is famous for its Most visited city.",
+      "Bangkok attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "Home to Hagia Sophia, a world-famous attraction.",
+      "This city is known for its Spans two continents."
+    ],
+    "fun_fact": [
+      "Istanbul is a blend of modern and ancient, with rich traditions still alive.",
+      "Istanbul has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Istanbul is famous for its Ancient capital.",
+      "Istanbul attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "Home to Table Mountain, a world-famous attraction.",
+      "This city is known for its Penguins at Boulders Beach."
+    ],
+    "fun_fact": [
+      "Cape Town is a blend of modern and ancient, with rich traditions still alive.",
+      "Cape Town has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Cape Town is famous for its Robben Island.",
+      "Cape Town attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "clues": [
+      "Home to Hollywood Sign, a world-famous attraction.",
+      "This city is known for its City of Angels."
+    ],
+    "fun_fact": [
+      "Los Angeles is a blend of modern and ancient, with rich traditions still alive.",
+      "Los Angeles has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Los Angeles is famous for its Movie capital.",
+      "Los Angeles attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "Home to Red Square, a world-famous attraction.",
+      "This city is known for its Cold winters."
+    ],
+    "fun_fact": [
+      "Moscow is a blend of modern and ancient, with rich traditions still alive.",
+      "Moscow has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Moscow is famous for its Largest metro system in the world.",
+      "Moscow attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "clues": [
+      "Home to Great Wall, a world-famous attraction.",
+      "This city is known for its Forbidden City."
+    ],
+    "fun_fact": [
+      "Beijing is a blend of modern and ancient, with rich traditions still alive.",
+      "Beijing has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Beijing is famous for its Peking Duck specialty.",
+      "Beijing attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "Home to CN Tower, a world-famous attraction.",
+      "This city is known for its Multicultural city."
+    ],
+    "fun_fact": [
+      "Toronto is a blend of modern and ancient, with rich traditions still alive.",
+      "Toronto has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Toronto is famous for its Hockey is popular.",
+      "Toronto attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "Home to Tango Dance, a world-famous attraction.",
+      "This city is known for its Paris of South America."
+    ],
+    "fun_fact": [
+      "Buenos Aires is a blend of modern and ancient, with rich traditions still alive.",
+      "Buenos Aires has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Buenos Aires is famous for its Birthplace of Messi.",
+      "Buenos Aires attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "Home to Acropolis, a world-famous attraction.",
+      "This city is known for its Democracy origin."
+    ],
+    "fun_fact": [
+      "Athens is a blend of modern and ancient, with rich traditions still alive.",
+      "Athens has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Athens is famous for its Greek mythology central.",
+      "Athens attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "Home to K-Pop, a world-famous attraction.",
+      "This city is known for its Technology hub."
+    ],
+    "fun_fact": [
+      "Seoul is a blend of modern and ancient, with rich traditions still alive.",
+      "Seoul has hosted major global events and continues to be a cultural hub."
+    ],
+    "trivia": [
+      "Seoul is famous for its 24-hour convenience stores.",
+      "Seoul attracts millions of tourists annually for its unique attractions."
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "Home to Brandenburg Gate, a famous attraction.",
+      "This city is known for its Historic city."
+    ],
+    "fun_fact": [
+      "Berlin is famous for its blend of history and modern culture.",
+      "Berlin continues to attract tourists due to its Berlin Wall."
+    ],
+    "trivia": [
+      "Berlin is known for its Berlin Wall.",
+      "Many visitors explore Berlin for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "Home to Royal Palace, a famous attraction.",
+      "This city is known for its Flamenco dance."
+    ],
+    "fun_fact": [
+      "Madrid is famous for its blend of history and modern culture.",
+      "Madrid continues to attract tourists due to its Home to Real Madrid."
+    ],
+    "trivia": [
+      "Madrid is known for its Home to Real Madrid.",
+      "Many visitors explore Madrid for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "Home to Classical music, a famous attraction.",
+      "This city is known for its Habsburg heritage."
+    ],
+    "fun_fact": [
+      "Vienna is famous for its blend of history and modern culture.",
+      "Vienna continues to attract tourists due to its Coffee culture."
+    ],
+    "trivia": [
+      "Vienna is known for its Coffee culture.",
+      "Many visitors explore Vienna for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "Home to Marina Bay Sands, a famous attraction.",
+      "This city is known for its Hawker centers."
+    ],
+    "fun_fact": [
+      "Singapore is famous for its blend of history and modern culture.",
+      "Singapore continues to attract tourists due to its Merlion symbol."
+    ],
+    "trivia": [
+      "Singapore is known for its Merlion symbol.",
+      "Many visitors explore Singapore for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "Home to Hoan Kiem Lake, a famous attraction.",
+      "This city is known for its Street food culture."
+    ],
+    "fun_fact": [
+      "Hanoi is famous for its blend of history and modern culture.",
+      "Hanoi continues to attract tourists due to its Capital of Vietnam."
+    ],
+    "trivia": [
+      "Hanoi is known for its Capital of Vietnam.",
+      "Many visitors explore Hanoi for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "Home to Nobel Prize origin, a famous attraction.",
+      "This city is known for its Archipelago city."
+    ],
+    "fun_fact": [
+      "Stockholm is famous for its blend of history and modern culture.",
+      "Stockholm continues to attract tourists due to its ABBA's hometown."
+    ],
+    "trivia": [
+      "Stockholm is known for its ABBA's hometown.",
+      "Many visitors explore Stockholm for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "Home to Tram 28, a famous attraction.",
+      "This city is known for its Pastel de nata."
+    ],
+    "fun_fact": [
+      "Lisbon is famous for its blend of history and modern culture.",
+      "Lisbon continues to attract tourists due to its Fado music."
+    ],
+    "trivia": [
+      "Lisbon is known for its Fado music.",
+      "Many visitors explore Lisbon for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "Home to Frida Kahlo Museum, a famous attraction.",
+      "This city is known for its Tacos and street food."
+    ],
+    "fun_fact": [
+      "Mexico City is famous for its blend of history and modern culture.",
+      "Mexico City continues to attract tourists due to its Aztec origins."
+    ],
+    "trivia": [
+      "Mexico City is known for its Aztec origins.",
+      "Many visitors explore Mexico City for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "clues": [
+      "Home to Edinburgh Castle, a famous attraction.",
+      "This city is known for its Festival city."
+    ],
+    "fun_fact": [
+      "Edinburgh is famous for its blend of history and modern culture.",
+      "Edinburgh continues to attract tourists due to its Birthplace of Harry Potter."
+    ],
+    "trivia": [
+      "Edinburgh is known for its Birthplace of Harry Potter.",
+      "Many visitors explore Edinburgh for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "clues": [
+      "Home to Burj Khalifa, a famous attraction.",
+      "This city is known for its Desert city."
+    ],
+    "fun_fact": [
+      "Dubai is famous for its blend of history and modern culture.",
+      "Dubai continues to attract tourists due to its Gold souks."
+    ],
+    "trivia": [
+      "Dubai is known for its Gold souks.",
+      "Many visitors explore Dubai for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "clues": [
+      "Home to Grand Place, a famous attraction.",
+      "This city is known for its Chocolate and waffles."
+    ],
+    "fun_fact": [
+      "Brussels is famous for its blend of history and modern culture.",
+      "Brussels continues to attract tourists due to its European Union HQ."
+    ],
+    "trivia": [
+      "Brussels is known for its European Union HQ.",
+      "Many visitors explore Brussels for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "Home to Viking Museum, a famous attraction.",
+      "This city is known for its Northern lights."
+    ],
+    "fun_fact": [
+      "Oslo is famous for its blend of history and modern culture.",
+      "Oslo continues to attract tourists due to its Fjords."
+    ],
+    "trivia": [
+      "Oslo is known for its Fjords.",
+      "Many visitors explore Oslo for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "Home to Bollywood, a famous attraction.",
+      "This city is known for its Gateway of India."
+    ],
+    "fun_fact": [
+      "Mumbai is famous for its blend of history and modern culture.",
+      "Mumbai continues to attract tourists due to its Dabbawala system."
+    ],
+    "trivia": [
+      "Mumbai is known for its Dabbawala system.",
+      "Many visitors explore Mumbai for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Seville",
+    "country": "Spain",
+    "clues": [
+      "Home to Alc\u00e1zar Palace, a famous attraction.",
+      "This city is known for its Flamenco dancing."
+    ],
+    "fun_fact": [
+      "Seville is famous for its blend of history and modern culture.",
+      "Seville continues to attract tourists due to its Oranges everywhere."
+    ],
+    "trivia": [
+      "Seville is known for its Oranges everywhere.",
+      "Many visitors explore Seville for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "Home to Andes Mountains, a famous attraction.",
+      "This city is known for its Wine production."
+    ],
+    "fun_fact": [
+      "Santiago is famous for its blend of history and modern culture.",
+      "Santiago continues to attract tourists due to its Neruda's home."
+    ],
+    "trivia": [
+      "Santiago is known for its Neruda's home.",
+      "Many visitors explore Santiago for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "Home to Thermal baths, a famous attraction.",
+      "This city is known for its Chain Bridge."
+    ],
+    "fun_fact": [
+      "Budapest is famous for its blend of history and modern culture.",
+      "Budapest continues to attract tourists due to its Danube River."
+    ],
+    "trivia": [
+      "Budapest is known for its Danube River.",
+      "Many visitors explore Budapest for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "Home to Astronomical Clock, a famous attraction.",
+      "This city is known for its Gothic architecture."
+    ],
+    "fun_fact": [
+      "Prague is famous for its blend of history and modern culture.",
+      "Prague continues to attract tourists due to its Charles Bridge."
+    ],
+    "trivia": [
+      "Prague is known for its Charles Bridge.",
+      "Many visitors explore Prague for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "clues": [
+      "Home to Petronas Towers, a famous attraction.",
+      "This city is known for its Multicultural food."
+    ],
+    "fun_fact": [
+      "Kuala Lumpur is famous for its blend of history and modern culture.",
+      "Kuala Lumpur continues to attract tourists due to its Batu Caves."
+    ],
+    "trivia": [
+      "Kuala Lumpur is known for its Batu Caves.",
+      "Many visitors explore Kuala Lumpur for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "clues": [
+      "Home to Largest city in Southeast Asia, a famous attraction.",
+      "This city is known for its Batavia colonial past."
+    ],
+    "fun_fact": [
+      "Jakarta is famous for its blend of history and modern culture.",
+      "Jakarta continues to attract tourists due to its Traffic jams."
+    ],
+    "trivia": [
+      "Jakarta is known for its Traffic jams.",
+      "Many visitors explore Jakarta for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "Home to Sauna culture, a famous attraction.",
+      "This city is known for its Nordic design."
+    ],
+    "fun_fact": [
+      "Helsinki is famous for its blend of history and modern culture.",
+      "Helsinki continues to attract tourists due to its Santa Claus village."
+    ],
+    "trivia": [
+      "Helsinki is known for its Santa Claus village.",
+      "Many visitors explore Helsinki for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "Home to Tivoli Gardens, a famous attraction.",
+      "This city is known for its Hygge lifestyle."
+    ],
+    "fun_fact": [
+      "Copenhagen is famous for its blend of history and modern culture.",
+      "Copenhagen continues to attract tourists due to its Little Mermaid statue."
+    ],
+    "trivia": [
+      "Copenhagen is known for its Little Mermaid statue.",
+      "Many visitors explore Copenhagen for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "clues": [
+      "Home to Taipei 101, a famous attraction.",
+      "This city is known for its Night markets."
+    ],
+    "fun_fact": [
+      "Taipei is famous for its blend of history and modern culture.",
+      "Taipei continues to attract tourists due to its Bubble tea origin."
+    ],
+    "trivia": [
+      "Taipei is known for its Bubble tea origin.",
+      "Many visitors explore Taipei for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "Home to Guinness Storehouse, a famous attraction.",
+      "This city is known for its Literary heritage."
+    ],
+    "fun_fact": [
+      "Dublin is famous for its blend of history and modern culture.",
+      "Dublin continues to attract tourists due to its St. Patrick's Day."
+    ],
+    "trivia": [
+      "Dublin is known for its St. Patrick's Day.",
+      "Many visitors explore Dublin for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "clues": [
+      "Home to Intramuros, a famous attraction.",
+      "This city is known for its Jeepneys."
+    ],
+    "fun_fact": [
+      "Manila is famous for its blend of history and modern culture.",
+      "Manila continues to attract tourists due to its Adobo specialty."
+    ],
+    "trivia": [
+      "Manila is known for its Adobo specialty.",
+      "Many visitors explore Manila for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "Home to Machu Picchu gateway, a famous attraction.",
+      "This city is known for its Pisco sour."
+    ],
+    "fun_fact": [
+      "Lima is famous for its blend of history and modern culture.",
+      "Lima continues to attract tourists due to its Ceviche specialty."
+    ],
+    "trivia": [
+      "Lima is known for its Ceviche specialty.",
+      "Many visitors explore Lima for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "clues": [
+      "Home to Hassan II Mosque, a famous attraction.",
+      "This city is known for its Rick's Caf\u00e9."
+    ],
+    "fun_fact": [
+      "Casablanca is famous for its blend of history and modern culture.",
+      "Casablanca continues to attract tourists due to its Coastal city."
+    ],
+    "trivia": [
+      "Casablanca is known for its Coastal city.",
+      "Many visitors explore Casablanca for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "clues": [
+      "Home to City of Sails, a famous attraction.",
+      "This city is known for its Sky Tower."
+    ],
+    "fun_fact": [
+      "Auckland is famous for its blend of history and modern culture.",
+      "Auckland continues to attract tourists due to its Hobbit filming locations."
+    ],
+    "trivia": [
+      "Auckland is known for its Hobbit filming locations.",
+      "Many visitors explore Auckland for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "clues": [
+      "Home to Apartheid Museum, a famous attraction.",
+      "This city is known for its Gold mining history."
+    ],
+    "fun_fact": [
+      "Johannesburg is famous for its blend of history and modern culture.",
+      "Johannesburg continues to attract tourists due to its Nelson Mandela heritage."
+    ],
+    "trivia": [
+      "Johannesburg is known for its Nelson Mandela heritage.",
+      "Many visitors explore Johannesburg for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "clues": [
+      "Home to Classic cars, a famous attraction.",
+      "This city is known for its Cuban cigars."
+    ],
+    "fun_fact": [
+      "Havana is famous for its blend of history and modern culture.",
+      "Havana continues to attract tourists due to its Salsa music."
+    ],
+    "trivia": [
+      "Havana is known for its Salsa music.",
+      "Many visitors explore Havana for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Bogot\u00e1",
+    "country": "Colombia",
+    "clues": [
+      "Home to Salt Cathedral, a famous attraction.",
+      "This city is known for its Coffee production."
+    ],
+    "fun_fact": [
+      "Bogot\u00e1 is famous for its blend of history and modern culture.",
+      "Bogot\u00e1 continues to attract tourists due to its Gold Museum."
+    ],
+    "trivia": [
+      "Bogot\u00e1 is known for its Gold Museum.",
+      "Many visitors explore Bogot\u00e1 for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "Home to Geysers and volcanoes, a famous attraction.",
+      "This city is known for its Northern lights."
+    ],
+    "fun_fact": [
+      "Reykjavik is famous for its blend of history and modern culture.",
+      "Reykjavik continues to attract tourists due to its Smallest capital in Europe."
+    ],
+    "trivia": [
+      "Reykjavik is known for its Smallest capital in Europe.",
+      "Many visitors explore Reykjavik for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "Home to Old Town, a famous attraction.",
+      "This city is known for its Chopin's birthplace."
+    ],
+    "fun_fact": [
+      "Warsaw is famous for its blend of history and modern culture.",
+      "Warsaw continues to attract tourists due to its Rebuilt after WWII."
+    ],
+    "trivia": [
+      "Warsaw is known for its Rebuilt after WWII.",
+      "Many visitors explore Warsaw for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "clues": [
+      "Home to Stanley Park, a famous attraction.",
+      "This city is known for its Film industry."
+    ],
+    "fun_fact": [
+      "Vancouver is famous for its blend of history and modern culture.",
+      "Vancouver continues to attract tourists due to its Mountains and sea views."
+    ],
+    "trivia": [
+      "Vancouver is known for its Mountains and sea views.",
+      "Many visitors explore Vancouver for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "clues": [
+      "Home to FIFA World Cup 2022, a famous attraction.",
+      "This city is known for its Souq Waqif."
+    ],
+    "fun_fact": [
+      "Doha is famous for its blend of history and modern culture.",
+      "Doha continues to attract tourists due to its Museum of Islamic Art."
+    ],
+    "trivia": [
+      "Doha is known for its Museum of Islamic Art.",
+      "Many visitors explore Doha for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "clues": [
+      "Home to Notre Dame Cathedral, a famous attraction.",
+      "This city is known for its Vietnam War history."
+    ],
+    "fun_fact": [
+      "Ho Chi Minh City is famous for its blend of history and modern culture.",
+      "Ho Chi Minh City continues to attract tourists due to its B\u00e1nh m\u00ec specialty."
+    ],
+    "trivia": [
+      "Ho Chi Minh City is known for its B\u00e1nh m\u00ec specialty.",
+      "Many visitors explore Ho Chi Minh City for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA",
+    "clues": [
+      "Home to Golden Gate Bridge, a famous attraction.",
+      "This city is known for its Tech hub."
+    ],
+    "fun_fact": [
+      "San Francisco is famous for its blend of history and modern culture.",
+      "San Francisco continues to attract tourists due to its Alcatraz Island."
+    ],
+    "trivia": [
+      "San Francisco is known for its Alcatraz Island.",
+      "Many visitors explore San Francisco for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Perth",
+    "country": "Australia",
+    "clues": [
+      "Home to Most isolated city, a famous attraction.",
+      "This city is known for its Swan River."
+    ],
+    "fun_fact": [
+      "Perth is famous for its blend of history and modern culture.",
+      "Perth continues to attract tourists due to its Beaches and surfing."
+    ],
+    "trivia": [
+      "Perth is known for its Beaches and surfing.",
+      "Many visitors explore Perth for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Muscat",
+    "country": "Oman",
+    "clues": [
+      "Home to Sultan Qaboos Mosque, a famous attraction.",
+      "This city is known for its Arabian Sea."
+    ],
+    "fun_fact": [
+      "Muscat is famous for its blend of history and modern culture.",
+      "Muscat continues to attract tourists due to its Frankincense history."
+    ],
+    "trivia": [
+      "Muscat is known for its Frankincense history.",
+      "Many visitors explore Muscat for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "Home to Tango dance, a famous attraction.",
+      "This city is known for its Evita Per\u00f3n."
+    ],
+    "fun_fact": [
+      "Buenos Aires is famous for its blend of history and modern culture.",
+      "Buenos Aires continues to attract tourists due to its La Boca neighborhood."
+    ],
+    "trivia": [
+      "Buenos Aires is known for its La Boca neighborhood.",
+      "Many visitors explore Buenos Aires for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Christchurch",
+    "country": "New Zealand",
+    "clues": [
+      "Home to Garden City, a famous attraction.",
+      "This city is known for its Rebuilding after earthquake."
+    ],
+    "fun_fact": [
+      "Christchurch is famous for its blend of history and modern culture.",
+      "Christchurch continues to attract tourists due to its Tram tours."
+    ],
+    "trivia": [
+      "Christchurch is known for its Tram tours.",
+      "Many visitors explore Christchurch for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Montevideo",
+    "country": "Uruguay",
+    "clues": [
+      "Home to La Rambla, a famous attraction.",
+      "This city is known for its Mate tea."
+    ],
+    "fun_fact": [
+      "Montevideo is famous for its blend of history and modern culture.",
+      "Montevideo continues to attract tourists due to its Carnival culture."
+    ],
+    "trivia": [
+      "Montevideo is known for its Carnival culture.",
+      "Many visitors explore Montevideo for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "clues": [
+      "Home to Alexander Nevsky Cathedral, a famous attraction.",
+      "This city is known for its Vitosha Mountain."
+    ],
+    "fun_fact": [
+      "Sofia is famous for its blend of history and modern culture.",
+      "Sofia continues to attract tourists due to its Oldest capital in Europe."
+    ],
+    "trivia": [
+      "Sofia is known for its Oldest capital in Europe.",
+      "Many visitors explore Sofia for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "clues": [
+      "Home to Kingdom Centre, a famous attraction.",
+      "This city is known for its Desert city."
+    ],
+    "fun_fact": [
+      "Riyadh is famous for its blend of history and modern culture.",
+      "Riyadh continues to attract tourists due to its Edge of the World cliffs."
+    ],
+    "trivia": [
+      "Riyadh is known for its Edge of the World cliffs.",
+      "Many visitors explore Riyadh for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "clues": [
+      "Home to Mount Everest base, a famous attraction.",
+      "This city is known for its Temples and stupas."
+    ],
+    "fun_fact": [
+      "Kathmandu is famous for its blend of history and modern culture.",
+      "Kathmandu continues to attract tourists due to its Trekking hub."
+    ],
+    "trivia": [
+      "Kathmandu is known for its Trekking hub.",
+      "Many visitors explore Kathmandu for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Tashkent",
+    "country": "Uzbekistan",
+    "clues": [
+      "Home to Silk Road history, a famous attraction.",
+      "This city is known for its Tashkent Tower."
+    ],
+    "fun_fact": [
+      "Tashkent is famous for its blend of history and modern culture.",
+      "Tashkent continues to attract tourists due to its Registan Square nearby."
+    ],
+    "trivia": [
+      "Tashkent is known for its Registan Square nearby.",
+      "Many visitors explore Tashkent for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "clues": [
+      "Home to Old town charm, a famous attraction.",
+      "This city is known for its Sulfur baths."
+    ],
+    "fun_fact": [
+      "Tbilisi is famous for its blend of history and modern culture.",
+      "Tbilisi continues to attract tourists due to its Wine-producing region."
+    ],
+    "trivia": [
+      "Tbilisi is known for its Wine-producing region.",
+      "Many visitors explore Tbilisi for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Algiers",
+    "country": "Algeria",
+    "clues": [
+      "Home to Casbah district, a famous attraction.",
+      "This city is known for its French colonial influence."
+    ],
+    "fun_fact": [
+      "Algiers is famous for its blend of history and modern culture.",
+      "Algiers continues to attract tourists due to its Sahara desert gateway."
+    ],
+    "trivia": [
+      "Algiers is known for its Sahara desert gateway.",
+      "Many visitors explore Algiers for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "clues": [
+      "Home to Kwame Nkrumah Mausoleum, a famous attraction.",
+      "This city is known for its Ghanaian jollof rice."
+    ],
+    "fun_fact": [
+      "Accra is famous for its blend of history and modern culture.",
+      "Accra continues to attract tourists due to its Coastal capital."
+    ],
+    "trivia": [
+      "Accra is known for its Coastal capital.",
+      "Many visitors explore Accra for its rich traditions and landmarks."
+    ]
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "clues": [
+      "Home to El \u00c1vila National Park, a famous attraction.",
+      "This city is known for its Angel Falls nearby."
+    ],
+    "fun_fact": [
+      "Caracas is famous for its blend of history and modern culture.",
+      "Caracas continues to attract tourists due to its Arepas specialty."
+    ],
+    "trivia": [
+      "Caracas is known for its Arepas specialty.",
+      "Many visitors explore Caracas for its rich traditions and landmarks."
+    ]
+  }
+]
