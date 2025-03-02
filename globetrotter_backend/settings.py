@@ -138,3 +138,6 @@ BASE_URL = "http://localhost:3000/"
 CORS_ALLOW_ALL_ORIGINS = True  # Allow all origins (Not recommended for production)
 
 REDIS_URL = os.getenv("REDIS_URL", "localhost")
+
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+STATICFILES_STORAGE = "whitenoise.storage.CompressedManifestStaticFilesStorage"
