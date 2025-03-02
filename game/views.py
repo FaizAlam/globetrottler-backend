@@ -124,7 +124,7 @@ class GenerateInviteView(View):
         if not score:
             return JsonResponse({"error": "User not found"}, status=404)
 
-        invite_link = f"http://localhost:3000/play/?challenge={username}"
+        invite_link = f"https://globetrotter-frontend-woad.vercel.app/play/?challenge={username}"
         return JsonResponse({"inviteLink": invite_link, "score": score})
 
 class ViewInviteView(View):
